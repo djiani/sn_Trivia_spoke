@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="difficulty" label="Difficulty" language="en" table="var__m_sys_hub_action_output_06b241d42f3200104830808cf699b641">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>difficulty</element>
+            <help/>
+            <hint/>
+            <label>Difficulty</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_06b241d42f3200104830808cf699b641</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-02 03:24:51</sys_created_on>
+            <sys_id>cd938dd42f3200104830808cf699b6bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Difficulty</sys_name>
+            <sys_package display_value="SN Trivia Spoke" source="x_403039_sn_trivia">fdc005902f3200104830808cf699b61d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN Trivia Spoke">fdc005902f3200104830808cf699b61d</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_06b241d42f3200104830808cf699b641_difficulty_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-02 03:24:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

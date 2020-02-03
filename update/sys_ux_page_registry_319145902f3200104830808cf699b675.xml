@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>f59145902f3200104830808cf699b674</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/sn_trivia_spoke</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-02 03:16:11</sys_created_on>
+        <sys_id>319145902f3200104830808cf699b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SN Trivia Spoke</sys_name>
+        <sys_package display_value="SN Trivia Spoke" source="x_403039_sn_trivia">fdc005902f3200104830808cf699b61d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Trivia Spoke">fdc005902f3200104830808cf699b61d</sys_scope>
+        <sys_update_name>sys_ux_page_registry_319145902f3200104830808cf699b675</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-02 03:16:11</sys_updated_on>
+        <title>SN Trivia Spoke</title>
+    </sys_ux_page_registry>
+</record_update>
